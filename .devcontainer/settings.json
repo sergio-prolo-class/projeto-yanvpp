@@ -1,0 +1,59 @@
+{
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "symbols",
+  "terminal.integrated.fontFamily": "'Hack Nerd Font', monospace",
+  "terminal.integrated.fontSize": 14,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Min Dark",
+  "workbench.startupEditor": "none",
+  "editor.fontLigatures": true,
+  "files.autoSave": "afterDelay",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "workbench.activityBar.location": "top",
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "workbench.statusBar.visible": false,
+  "window.title": "${appName}",
+  "workbench.editor.editorActionsLocation": "hidden",
+  "workbench.editor.showTabs": "multiple",
+  "explorer.confirmDelete": false,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "package.json": ".eslint*, prettier*, next*, tsconfig*, vite*, pnpm-, bun.lockb, nest, package-lock*",
+    "tailwind.config.": "tailwind.config, postcss.config*",
+    ".env.local": ".env*",
+    ".env": ".env*"
+  },
+  "apc.header": {
+    "height": 50
+  },
+  "apc.listRow": {
+    "height": 30
+  },
+  "apc.stylesheet": {
+    ".pane-body": "padding: 8px"
+  },
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "update.mode": "none",
+  "update.showReleaseNotes": false,
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "workbench.productIconTheme": "fluent-icons",
+  "chat.commandCenter.enabled": false,
+  "files.associations": {
+    "stdbool.h": "c",
+    "livro.h": "c"
+  }
+}
