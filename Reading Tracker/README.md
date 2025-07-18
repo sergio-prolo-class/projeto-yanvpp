@@ -2,9 +2,9 @@
 
 ## 💡 Sobre o Projeto
 
-Reading Tracker é um sistema de gerenciamento de arquivos desenvolvido em C como projeto final para a disciplina de Programação I do curso de Engenharia de Telecomunicações do IFSC - Campus São José. [cite: 1, 2] O programa permite ao usuário catalogar os livros que já leu, armazenando as informações de forma persistente em arquivos.
+Reading Tracker é um sistema de gerenciamento de arquivos desenvolvido em C como projeto final para a disciplina de Programação I do curso de Engenharia de Telecomunicações do IFSC - Campus São José. O programa permite ao usuário catalogar os livros que já leu, armazenando as informações de forma persistente em arquivos.
 
-O projeto aplica conceitos fundamentais de programação estruturada, incluindo manipulação de arquivos, uso de ponteiros, modularização com funções e criação de estruturas de dados. [cite: 7, 8]
+O projeto aplica conceitos fundamentais de programação estruturada, incluindo manipulação de arquivos, uso de ponteiros, modularização com funções e criação de estruturas de dados. 
 
 ## ⚙️ Funcionalidades
 
