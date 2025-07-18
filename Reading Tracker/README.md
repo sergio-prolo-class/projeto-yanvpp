@@ -1,4 +1,4 @@
-# Reading Tracker - Gerenciador de Livros Lidos
+# Reading Tracker: Sua Estante Digital
 
 ## Sobre o Projeto
 
